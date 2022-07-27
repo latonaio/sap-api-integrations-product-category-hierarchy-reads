@@ -1,0 +1,21 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"ProductCategoryHierarchyCollection": {
+		"ObjectID":"",                         
+		"ETag":"",                             
+		"RootProductCategoryInternalID":"",    
+		"ProductCategoryInternalID":"ROOT-1",        
+		"ParentProductCategoryInternalID":"",  
+		"LanguageCode":"",                     
+		"LanguageCodeText":"",                 
+		"ProductCategory":"",                  
+		"ProductAssignmentAllowed":true                        
+	},
+	"api_schema": "ProductCategoryHierarchy",
+	"accepter": ["ProductCategoryHierarchyCollection"],
+	"product_category_hierarchy_code": "ROOT-1",
+	"deleted": false
+}

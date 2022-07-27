@@ -1,0 +1,19 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-product-category-hierarchy-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-product-category-hierarchy-reads/SAP_API_Caller.(*SAPAPICaller).ProductCategoryHierarchyCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E03A0701EE288BAC7D63A8EB395",
+			"ETag": "2020-02-24T15:02:57+09:00",
+			"RootProductCategoryInternalID": "ROOT-1",
+			"ProductCategoryInternalID": "ROOT-1",
+			"ParentProductCategoryInternalID": "",
+			"LanguageCode": "EN",
+			"LanguageCodeText": "English",
+			"ProductCategory": "Customer-00",
+			"ProductAssignmentAllowed": true
+		}
+	],
+	"time": "2022-07-27T23:11:58+09:00"
+}
